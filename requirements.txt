@@ -4,4 +4,4 @@ pandas==2.2.0
 plotly==5.18.0
 pyotp==2.9.0
 qrcode==7.4.2
-Pillow==10.2.0
+Pillow==10.4.0
